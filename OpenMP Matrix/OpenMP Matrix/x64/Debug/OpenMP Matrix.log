@@ -1,0 +1,3 @@
+﻿  OpenMP Matrix.cpp
+C:\Users\bythe\source\repos\OpenMP Matrix\OpenMP Matrix\OpenMP Matrix.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OpenMP Matrix.vcxproj -> C:\Users\bythe\source\repos\OpenMP Matrix\x64\Debug\OpenMP Matrix.exe
